@@ -6,4 +6,3 @@ let daireAlan = (r) =>{
 }
 
 daireAlan(argument*1)
-console.log("wsdasd")
